@@ -1,5 +1,5 @@
 # Roblox-Slop-Auto-Farms
-Collection of really shitty scripts I made for different games, these may be updated slightly in the future.
+Collection of really shitty scripts I made for a private testing environment in your own roblox brainrot game
 
 ## Executors
 
@@ -9,6 +9,10 @@ I would recommend Volt (Paid, best on the market rn), or Madium (Free) but reall
 
 They mostly just farm speed, however I plan to add auto-rebirths and more in the future.
 
-# p.s these are NOT togglable YET
-- there is no ui, it just auto farms as soon as you execute the loadstrings.
-- hi its me umbra im adding a ui
+# full script:
+hi its me umbra im adding all these into a script you guys can use
+loadstring(game:HttpGet("https://script.vmbrz.lol/loader.lua"))()
+will be updated in the future
+
+# notice
+this is only intended to be used for private testing in your own game and patching these vulnerabilities and I do not condone cheating or hacking in games bla bla bla etc etc

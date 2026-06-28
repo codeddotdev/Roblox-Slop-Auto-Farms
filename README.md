@@ -11,4 +11,4 @@ Any executor should work.
 They mostly just farm speed, however I plan to add auto-rebirths and more in the future.
 
 # p.s these are NOT togglable YET
--# there is no ui, it just auto farms as soon as you execute the loadstrings.
+- there is no ui, it just auto farms as soon as you execute the loadstrings.

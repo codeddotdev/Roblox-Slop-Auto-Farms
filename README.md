@@ -1,4 +1,5 @@
-<img width="870" height="59" alt="image" src="https://github.com/user-attachments/assets/803a6cf6-0d1c-453c-b0fa-fe8b9da6f0ed" /># Roblox-Slop-Auto-Farms
+<img width="870" height="59" alt="image" src="https://github.com/user-attachments/assets/803a6cf6-0d1c-453c-b0fa-fe8b9da6f0ed" /> # game links shown in each lua file btw
+# Roblox-Slop-Auto-Farms
 Collection of really shitty scripts I made for a private testing environment in your own roblox brainrot game
 
 ## Executors
